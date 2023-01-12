@@ -1,0 +1,12 @@
+.expense-forms{
+ display: flex;
+ /* justify-content: space-between; */
+ flex-wrap: wrap;
+ margin: 40px auto;
+ width: 50%;
+}
+.buttons{
+ display: flex;
+ justify-content: flex-end;
+
+}

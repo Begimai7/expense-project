@@ -1,0 +1,16 @@
+.container{
+ display: flex;
+ flex-direction: column;
+ padding: 20px;
+ margin-top: 10px;
+}
+.label-text{
+ font-size: 20px;
+ font-weight: 550;
+}
+.input{
+ padding: 10px;
+ border-radius: 8px;
+ border: none;
+ margin: 10px 30px;
+}
